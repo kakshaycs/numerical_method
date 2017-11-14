@@ -1,6 +1,6 @@
 # numerical_method
 
-this is an advance calculater 
+this is an advance calculator 
 1. numerical integration 
 2. interpolation
 .
