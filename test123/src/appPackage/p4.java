@@ -217,7 +217,7 @@ public class p4 extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
-int n,i,j,k,fact,fact1,m;
+int n,i,j,k,fact,fact1,m,l;
 float h,sum,prod,xx,u;
 n=Integer.parseInt(t1.getText());
 xx=Float.parseFloat(t2.getText());
