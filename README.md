@@ -7,7 +7,7 @@ this is an advance calculator
 .
 working
 plss help me
-code is on neatbeans ide 
+code is on neatbeans IDE
 thankx in advance
 
 preferance language(java,python,c,and c++)
